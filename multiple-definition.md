@@ -7,7 +7,7 @@ For brevity I'll use the word "entry" to denote "word sense" in this collection.
 
 So if an entry is not an authoritative dictionary definition, then what is it? An entry is simply whatever meaning I happen to have in mind when using that word in
 a specific context. The purpose is to help eliminate ambiguities in communication. For example, if I made the controversial statement that "Art perished around halfway
-through the 20th century", we are not in much confusion about what "20th century" refers to be are likely to be in considerable disagreement about what "art" might mean.
+through the 20th century", we are not in much confusion about what "20th century" refers to but are likely to be in considerable disagreement about what "art" might mean.
 This collection is not meant to _prove_ any claims to the meaning of art, for example, one way or the other - simply to document as clearly as possible the referent 
 (or multiples of) the writer had in mind when they _used_ the word "art". Now, many entries are often likely to be contentious, inconsistent, poorly argued, etc. - but 
 the aim here isn't really _proof_ but documentation. If an entry proves to be unclear another entry can be appended to the list which references this former entry and 
