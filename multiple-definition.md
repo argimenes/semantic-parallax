@@ -15,7 +15,7 @@ responds to it. The exact notation for this hasn't been finalised, yet, but this
 refining a notation seems reasonable.
 
 Entries can refer to each other and of course can (and probably will) refer to external sources, broadly or specifically. An entry doesn't have to constitute your 
-particular "definition" of a word - remember, it is simply a reference to a reference. Let's say you have in mind Coleridge's notion of the "Imagination", you need 
+particular "definition" of a word - remember, it is simply a pointer to a referent. Let's say you have in mind Coleridge's notion of the "Imagination", you need 
 only note that in the entry. It doesn't have to be something you personally believe in - the idea is to simply document references. For example, in a statement 
 like the following we can track the different senses intended for the word "imagination" by adding the relative index number after the word in square brackets.
 
