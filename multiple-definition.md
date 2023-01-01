@@ -1,6 +1,6 @@
 # Semantic Parallax
 
-In the spirit of I. A. Richards, who believed that the best way to get at the true meaning of words and the concepts they (appear) to signal,
+In the spirit of I. A. Richards, who believed that the best way to get at the true meaning of words and the concepts they (appear to) signal,
 this will be a collection of words and their specific senses. 
 
 For brevity I'll use the word "entry" to denote "word sense" in this collection.
