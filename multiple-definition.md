@@ -24,7 +24,7 @@ perception that alters our objective perception of reality.
 My aim in compiling a collection of these multiple definitions is twofold:
 
 1. As stated above, to help reduce ambiguity in my communications - in public and to myself, in my own writing - by documenting the precise word-meaning intended
-2. To attempt to create a kind of "parallax view" of a word in its many senses, senses that extend beyond the formal dictionaries, and that approaches like the ideal of "multiple definition" that I. A. Richards had in mind as a tool for thinking through some of the most treacherous problems in discourse. He wasn't concerned only with academic discourse - in fact he was far more concerned about loose language in public life and the potential for devastating misunderstandings.
+2. To attempt to create a kind of "parallax view" of a word in its many senses, senses that extend beyond the formal dictionaries, and that approaches the idea of "multiple definition" that I. A. Richards had in mind as a tool for thinking through some of the most treacherous problems in discourse. He wasn't concerned only with academic discourse - in fact he was far more concerned about loose language in public life and the potential for devastating misunderstandings.
 
 Therefore, my hope is that in documenting these meanings I can both [a] help myself think more clearly by keeping in focus the specific sense of a word I had in mind, 
 to try to not lose track of and twist this meaning through the labyrinth of argumentation, and [b] help others at least see what I was pointing to, no matter what word 
