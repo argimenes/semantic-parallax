@@ -49,3 +49,6 @@ The general idea of the imagination as an image-generating faculty.
 Coleridge's notion of the Secondary Imagination as a mental faculty which "dissolves, diffuses, dissipates, in order to recreate".
 - source: [https://capone.mtsu.edu/jcomas/coleridge/biographia13.html](https://capone.mtsu.edu/jcomas/coleridge/biographia13.html#:~:text=The%20secondary%20Imagination)
 - author: @argimenes
+
+### interinanimation
+[1] I. A. Richards borrowed this term from John Donne to suggest the effect that certain words have upon each other in literature of mutual change and control. 
